@@ -1,27 +1,61 @@
-# Treinamento de Arduino Básico - Robocamp
 
-Bem-vindo ao repositório oficial do treinamento de Arduino básico ministrado pela [Nome da Liga de Robótica]. Este repositório contém todos os materiais, códigos-fonte, projetos e recursos utilizados durante o treinamento.
+# 🤖 Treinamento de Arduino Básico - RoboCAMP
 
-## Objetivo
+Bem-vindo ao repositório oficial do **Treinamento de Arduino Básico** da **Liga de Robótica da Unicamp**.  
+Este repositório contém todos os materiais, exemplos, roteiros e projetos utilizados no curso.
 
-O objetivo deste treinamento é introduzir os conceitos básicos de Arduino, permitindo que os participantes desenvolvam habilidades práticas para criar projetos de eletrônica e robótica. Ao final do treinamento, os participantes serão capazes de:
+> 📚 **Foco didático** — Ideal para iniciantes em eletrônica e programação com Arduino.
 
-- Entender o funcionamento básico do Arduino.
-- Realizar conexões simples com componentes eletrônicos.
-- Escrever e carregar códigos básicos na placa Arduino.
-- Desenvolver projetos simples utilizando sensores e atuadores.
+---
 
-## Estrutura do Repositório
+## 🎯 Objetivos
 
-O repositório está organizado da seguinte forma:
+Ao final do treinamento, você será capaz de:
 
-- **/aulas**: Contém os materiais de cada aula, incluindo slides, exemplos de código e instruções.
-- **/projetos**: Contém os projetos práticos desenvolvidos durante o treinamento, com códigos-fonte e esquemas de montagem.
-- **/recursos**: Links úteis, tutoriais, bibliotecas e documentação adicional para aprofundamento.
-- **/contribuicoes**: Diretório para contribuições dos participantes (caso o repositório seja aberto para colaborações).
+✅ Entender o funcionamento do Arduino  
+✅ Realizar conexões com componentes eletrônicos  
+✅ Programar e carregar códigos simples na placa  
+✅ Criar projetos básicos usando sensores e atuadores  
 
-## Como Utilizar
+---
 
-1. **Clone o repositório**:
+## 📂 Estrutura do Repositório
+
+| Diretório              | Descrição |
+|------------------------|-----------|
+| `Aulas_Training/`      | Materiais internos da equipe de treinamento |
+| `Aulas_Publico/`       | Slides, exercícios, códigos e guias para os participantes |
+| `Projetos/`            | Projetos práticos do curso com códigos e esquemas |
+| `Recursos/`            | Tutoriais, links úteis, bibliotecas |
+| `Contribuicoes/`       | Projetos enviados pelos alunos (caso aberto) |
+
+---
+
+## 🛠️ Como Usar
+
+1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/Curso-Arduino.git
+   git clone https://github.com/robocampft/bootcamp-arduino-2025.git
+   ```
+
+2. **Explore as aulas** no diretório `Aulas_Publico/`.
+
+3. **Experimente os projetos** em `Projetos/` com sua placa Arduino!
+
+---
+
+## 👨‍🏫 Equipe de Treinamento
+
+- **Pedro dos Santos Conceição** – Diretor de Treinamento  
+- Pedro Evandro Martins  
+- Hugo Alexandre Strassa  
+- João Pedro de Lima Xavier  
+- Marcelo Meloni  
+
+---
+
+## 📬 Contato
+
+Quer saber mais? Entre em contato com a **Liga de Robótica da Unicamp**
+
+---
