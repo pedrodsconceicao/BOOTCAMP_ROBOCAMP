@@ -56,6 +56,7 @@ Ao final do treinamento, você será capaz de:
 
 ## 📬 Contato
 
-Quer saber mais? Entre em contato com a **Liga de Robótica da Unicamp**
-
+Quer saber mais? Entre em contato com a **Liga de Robótica da Unicamp** ou com o Diretor de Treinamento
+📧 Email para contato LIGA ROBOCAMP : [robocamp@unicamp.br](mailto:robocamp@unicamp.br)
+📧 Email para contato PEDRO DOS SANTOS CONCEIÇÃO : [p195514@dac.unicamp.br](mailto:p195514@dac.unicamp.br)
 ---
