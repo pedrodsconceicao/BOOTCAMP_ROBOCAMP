@@ -2,7 +2,7 @@
 # 🤖 Treinamento de Arduino Básico - RoboCAMP
 
 Bem-vindo ao repositório oficial do **Treinamento de Arduino Básico** da **Liga de Robótica da Unicamp**.  
-Este repositório contém todos os materiais, exemplos, roteiros e projetos utilizados no curso.
+Este repositório contém todos os materiais, exemplos, roteiros e projetos utilizados no curso..
 
 > 📚 **Foco didático** — Ideal para iniciantes em eletrônica e programação com Arduino.
 
