@@ -8,7 +8,7 @@ Este repositório contém todos os materiais, exemplos, roteiros e projetos util
 
 ---
 
-### 🎯 Objetivos
+## 🎯 Objetivos
 
 Ao final do treinamento, você será capaz de:
 
